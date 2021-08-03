@@ -1,13 +1,14 @@
  <div>
   <a href="https://github.com/gabinag">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabinag&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinag&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=gabinag&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinag&layout=compact&langs_count=7&theme=jolly"/>
 </div>
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Gabi-doll" src="https://media.discordapp.net/attachments/835209704212791370/871929666439634984/Webp.net-gifmaker.gif?width=150&height=150"
 </div>
  
  ##
