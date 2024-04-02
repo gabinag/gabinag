@@ -1,5 +1,5 @@
 ## Hello World! I'm Gabi!👋
-👩‍💻 Web Development student
+👩‍💻 Web Development student / QA / Front-End
  
  ##
  
