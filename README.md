@@ -1,5 +1,5 @@
 ## Hello World! I'm Gabi!👋
-👩‍💻 Front-end developer
+👩‍💻 Front-end developer   
 🎓 Bachelor of Technology in Internet Systems - Fatec Rubens Lara
 
 <div style="display: inline_block"><br>
