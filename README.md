@@ -1,6 +1,6 @@
-## Hello World! I'm Gabi!👋
+## Hello World!👋
 👩‍💻 Front-end developer   
-🎓 Technologist Degree in Internet Systems - Fatec Rubens Lara
+🎓 Tecnóloga em Sistemas para Internet - Fatec Rubens Lara
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Icon-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
